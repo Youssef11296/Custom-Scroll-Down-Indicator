@@ -1,0 +1,16 @@
+{
+  "name": "39-CSS-Custom-Scroll-Down",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://Youssef11296.github.io/Custom-Scroll-Down-Indicator",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
